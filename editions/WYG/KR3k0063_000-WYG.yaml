@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3k0063/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十一
+  hash: sha256:6fde423eff804002a73f9da4a96c88a4d581d1c7affa2bef6c291152bdc6238c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3k0063_WYG_000-1a, image: WYG1034/WYG1034-0001a.png}
+body:
+  text: 花木鳥獸集𩔖𩔖書𩔖提要臣等謹案花木鳥獸集𩔖三卷國朝吳寳芝撰寳芝石門貢生是書原本卷端題有臣吳寳芝恭纂字當是經進之本也所集花木鳥獸故實分門别𩔖臚纂成書上卷凡四十三目中卷凡四十二目下卷凡二十五目葢亦𩔖書之體而卷帙不繁專掇取新頴字句以供詞藻之採擷上自經史諸子旁及漢唐以来稗官小説下至名人詩句無不博引兼收中間如三國典畧瑞應圖字説等書久已佚亡亦不免從他書稗販之弊然所摘録大致猶稱雅贍葢其意取纖麗為清異録之支流而泛濫及於詞章則又藝文𩔖聚以来相沿之舊體雖徵据稍隘掛漏尚多而片語單辭往往可資考證以視冗􅇎蕪蔓者轉為足備檢核焉乾隆四十五年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:dfb00700283533a6ff448329fa8bc1ebf336e3cec1f7b11ece36c8608d79660e
+metadata:
+  title: 花木鳥獸集類
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:36:30.950644'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3k0063/KR3k0063_000.txt
+hash: sha256:5d56abbd5908884113291041fb3264de7a1c6c9c99026518bb0441930070a3d1
